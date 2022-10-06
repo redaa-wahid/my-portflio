@@ -17,7 +17,3 @@ link[i].addEventListener("click",()=>{
         as.style.display = "none";
 });
 }
-
-AOS.init({
-    duration: 1200,
-  })
