@@ -172,6 +172,7 @@ width: 77%;
 }
 .name h2 {
     margin-bottom: 30px;
+      position: relative;
 }
 .name p{
    font-size: 20px;
