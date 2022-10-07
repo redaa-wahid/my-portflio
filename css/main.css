@@ -379,6 +379,7 @@ margin: auto;
     height: 100vh;
     margin-bottom: 40px;
     width: 100%;
+    position: relative;
 }
 
 .portflioo h2{
