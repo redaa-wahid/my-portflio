@@ -640,6 +640,10 @@ width: 100%;
       width: 100% !important;
 margin: auto;
   }
+  
+ .my-contact{
+      height: auto;
+     }
 textarea{
     margin: auto;
 }
