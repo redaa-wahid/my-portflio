@@ -14,6 +14,10 @@ let link = document.querySelectorAll("aside a");
 console.log(link);
 for (let i = 0; i < link.length; i++) {
 link[i].addEventListener("click",()=>{
+         if (window.innerWidth <= 767) {
         as.style.display = "none";
+    }else{
+        as.style.display = "block";
+    }
 });
 }
